@@ -1,0 +1,22 @@
+html { 
+  height: 100% 
+}
+
+body {
+  padding-left: 50px;
+  background: linear-gradient(grey,grey);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.tube {
+  border: 1px solid #e52d27;
+    border-radius: 5px;
+    color: white;
+    background-color: #e52d27;
+    padding: 0px 4px 0px 4px;
+    text-shadow: 0px 0px 6px white;
+    box-shadow: 0px 0px 3px #e52d27;
+    margin-left: 4px;
+}
+
